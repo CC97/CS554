@@ -1,0 +1,18 @@
+{
+    "name": "cs-554-lab-6",
+    "version": "1.0.0",
+    "description": "",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node app.js",
+        "dev": "nodemon app.js"
+    },
+    "author": "Cheng Chen 10473438",
+    "license": "ISC",
+    "dependencies": {
+        "axios": "^0.26.1",
+        "express": "^4.17.3",
+        "nodemon": "^2.0.15"
+    }
+}

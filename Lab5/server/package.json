@@ -1,0 +1,22 @@
+{
+  "name": "cs-554-lab-5",
+  "version": "1.0.0",
+  "description": "lab5",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Cheng Chen 10473438",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server": "^3.6.7",
+    "axios": "^0.26.1",
+    "bluebird": "^3.7.2",
+    "graphql": "^16.3.0",
+    "lodash": "^4.17.21",
+    "node-redis": "^0.1.7",
+    "redis": "^3.0.2",
+    "uuid": "^8.3.2"
+  }
+}

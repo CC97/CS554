@@ -1,0 +1,19 @@
+{
+  "name": "cs-554-lab-2",
+  "version": "1.0.0",
+  "description": "lab2",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Cheng Chen 10473438",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.4.7",
+    "express": "^4.17.2",
+    "flat": "^2.0.1",
+    "node-redis": "^0.1.7",
+    "redis": "^3.0.2"
+  }
+}
